@@ -1,0 +1,5 @@
+export EMAIL_USER="codebundletest@gmail.com"
+export EMAIL_TOKEN="nhzyajxsskurkiso"
+export EMAIL_SERVER="smtp.gmail.com"
+export EMAIL_PORT="587"
+export DEV_AUTH_TOKEN="J7cukfRJRXG9YWy65qPecfaa"
